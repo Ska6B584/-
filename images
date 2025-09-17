@@ -1,0 +1,3 @@
+git add images/avatar.jpg images/bg.jpg
+git commit -m "Добавлены изображения"
+git push origin main
